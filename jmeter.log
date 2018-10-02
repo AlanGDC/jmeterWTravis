@@ -1,0 +1,50 @@
+2018/09/30 18:34:15 INFO  - jmeter.util.JMeterUtils: Setting Locale to en_AR 
+2018/09/30 18:34:15 INFO  - jmeter.JMeter: Loading user properties from: /Users/alan/eclipse-workspace/jmeter-bootstrap/apache-jmeter-3.0/bin/user.properties 
+2018/09/30 18:34:15 INFO  - jmeter.JMeter: Loading system properties from: /Users/alan/eclipse-workspace/jmeter-bootstrap/apache-jmeter-3.0/bin/system.properties 
+2018/09/30 18:34:15 INFO  - jmeter.JMeter: Copyright (c) 1998-2016 The Apache Software Foundation 
+2018/09/30 18:34:15 INFO  - jmeter.JMeter: Version 3.0 r1743807 
+2018/09/30 18:34:15 INFO  - jmeter.JMeter: java.version=1.8.0_171 
+2018/09/30 18:34:15 INFO  - jmeter.JMeter: java.vm.name=Java HotSpot(TM) 64-Bit Server VM 
+2018/09/30 18:34:15 INFO  - jmeter.JMeter: os.name=Mac OS X 
+2018/09/30 18:34:15 INFO  - jmeter.JMeter: os.arch=x86_64 
+2018/09/30 18:34:15 INFO  - jmeter.JMeter: os.version=10.13.4 
+2018/09/30 18:34:15 INFO  - jmeter.JMeter: file.encoding=UTF-8 
+2018/09/30 18:34:15 INFO  - jmeter.JMeter: Max memory     =3817865216 
+2018/09/30 18:34:15 INFO  - jmeter.JMeter: Available Processors =8 
+2018/09/30 18:34:15 INFO  - jmeter.JMeter: Default Locale=English (Argentina) 
+2018/09/30 18:34:15 INFO  - jmeter.JMeter: JMeter  Locale=English (Argentina) 
+2018/09/30 18:34:15 INFO  - jmeter.JMeter: JMeterHome=/Users/alan/eclipse-workspace/jmeter-bootstrap/apache-jmeter-3.0 
+2018/09/30 18:34:15 INFO  - jmeter.JMeter: user.dir  =/Users/alan/eclipse-workspace/jmeter-bootstrap 
+2018/09/30 18:34:15 INFO  - jmeter.JMeter: PWD       =/Users/alan/eclipse-workspace/jmeter-bootstrap 
+2018/09/30 18:34:15 INFO  - jmeter.JMeter: IP: 192.168.0.35 Name: iuniadmins-MacBook-Pro.local FullName: 192.168.0.35 
+2018/09/30 18:34:16 INFO  - jmeter.gui.action.LookAndFeelCommand: Using look and feel: com.apple.laf.AquaLookAndFeel [Mac OS X, System] 
+2018/09/30 18:34:16 INFO  - jmeter.JMeter: Loaded icon properties from org/apache/jmeter/images/icon.properties 
+2018/09/30 18:34:17 INFO  - jmeter.engine.util.CompoundVariable: Note: Function class names must contain the string: '.functions.' 
+2018/09/30 18:34:17 INFO  - jmeter.engine.util.CompoundVariable: Note: Function class names must not contain the string: '.gui.' 
+2018/09/30 18:34:18 INFO  - jmeter.JMeter: Loading file: tests/my_test_with_parameters.jmx 
+2018/09/30 18:34:18 INFO  - jmeter.services.FileServer: Default base='/Users/alan/eclipse-workspace/jmeter-bootstrap' 
+2018/09/30 18:34:18 INFO  - jmeter.services.FileServer: Set new base='/Users/alan/eclipse-workspace/jmeter-bootstrap/tests' 
+2018/09/30 18:34:18 INFO  - jmeter.gui.util.MenuFactory: Skipping kg.apc.jmeter.config.VariablesFromCSVFile 
+2018/09/30 18:34:18 INFO  - jmeter.save.SaveService: Testplan (JMX) version: 2.2. Testlog (JTL) version: 2.2 
+2018/09/30 18:34:18 INFO  - jmeter.save.SaveService: Using SaveService properties file encoding UTF-8 
+2018/09/30 18:34:18 INFO  - jmeter.save.SaveService: Using SaveService properties version 2.9 
+2018/09/30 18:34:18 INFO  - jmeter.save.SaveService: All converter versions present and correct 
+2018/09/30 18:34:18 INFO  - jmeter.save.SaveService: Loading file: tests/my_test_with_parameters.jmx 
+2018/09/30 18:34:18 INFO  - jmeter.protocol.http.sampler.HTTPSamplerBase: Parser for text/html is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser 
+2018/09/30 18:34:18 INFO  - jmeter.protocol.http.sampler.HTTPSamplerBase: Parser for application/xhtml+xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser 
+2018/09/30 18:34:18 INFO  - jmeter.protocol.http.sampler.HTTPSamplerBase: Parser for application/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser 
+2018/09/30 18:34:18 INFO  - jmeter.protocol.http.sampler.HTTPSamplerBase: Parser for text/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser 
+2018/09/30 18:34:18 INFO  - jmeter.protocol.http.sampler.HTTPSamplerBase: Parser for text/vnd.wap.wml is org.apache.jmeter.protocol.http.parser.RegexpHTMLParser 
+2018/09/30 18:34:18 INFO  - jmeter.protocol.http.sampler.HTTPSamplerBase: Parser for text/css is org.apache.jmeter.protocol.http.parser.CssParser 
+2018/09/30 18:34:18 INFO  - jmeter.services.FileServer: Set new base='/Users/alan/eclipse-workspace/jmeter-bootstrap/tests' 
+2018/09/30 18:34:18 INFO  - jmeter.samplers.SampleResult: Note: Sample TimeStamps are START times 
+2018/09/30 18:34:18 INFO  - jmeter.samplers.SampleResult: sampleresult.default.encoding is set to ISO-8859-1 
+2018/09/30 18:34:18 INFO  - jmeter.samplers.SampleResult: sampleresult.useNanoTime=true 
+2018/09/30 18:34:18 INFO  - jmeter.samplers.SampleResult: sampleresult.nanoThreadSleep=5000 
+2018/09/30 18:34:19 INFO  - jmeter.util.BSFTestElement: Registering JMeter version of JavaScript engine as work-round for BSF-22 
+2018/09/30 18:34:19 INFO  - jorphan.exec.KeyToolUtils: keytool found at 'keytool' 
+2018/09/30 18:34:19 INFO  - jmeter.protocol.http.proxy.ProxyControl: HTTP(S) Test Script Recorder SSL Proxy will use keys that support embedded 3rd party resources in file /Users/alan/eclipse-workspace/jmeter-bootstrap/apache-jmeter-3.0/bin/proxyserver.jks 
+2018/09/30 18:34:19 INFO  - jmeter.gui.util.MenuFactory: Skipping org.apache.jmeter.protocol.mongodb.config.MongoSourceElement 
+2018/09/30 18:34:19 INFO  - jmeter.gui.util.MenuFactory: Skipping org.apache.jmeter.protocol.mongodb.sampler.MongoScriptSampler 
+2018/09/30 18:34:19 INFO  - jmeter.gui.util.MenuFactory: Skipping org.apache.jmeter.visualizers.DistributionGraphVisualizer 
+2018/09/30 18:34:19 INFO  - jmeter.gui.util.MenuFactory: Skipping org.apache.jmeter.visualizers.SplineVisualizer 
